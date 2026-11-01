@@ -42,7 +42,7 @@ Building things, breaking things, learning how to fix them.
 
 ## 🌐 Connect With Me
 
-[Instagram](https://www.instagram.com/_pinocchaossticuxui/)
+[Instagram](https://www.instagram.com/_atenntxs/)
 
 [GitHub](https://github.com/Tenoriss)
 
