@@ -29,12 +29,6 @@ Building things, breaking things, learning how to fix them.
 - **Vitalis** — E-commerce project.
 - **SCOD** — Campus digital project.
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tenoriss&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tenoriss&layout=compact&theme=tokyonight&hide_border=true)
-
 ## 🏆 Achievements
 
 - 🎓 GitHub Education Student
