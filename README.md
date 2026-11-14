@@ -26,7 +26,7 @@ Building things, breaking things, learning how to fix them.
 
 - **Synapse AI Studio** — AI-focused application project.
 - **Kios Mama** — Local-first store management application.
-- **Vitalis** — E-commerce project.
+- **AxonAI** — AI- Assistant.
 - **SCOD** — Campus digital project.
 
 ## 🏆 Achievements
